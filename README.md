@@ -25,5 +25,3 @@ Oh and I'm french canadian ... it could explain some mistakes ;)
 Mike.
 
 Michel Trahan
-
-gpiozero4mqtt@MichelTrahan.com
